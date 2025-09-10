@@ -9,14 +9,14 @@ This repository serves as a **portfolio of all my Terraform projects** — showc
 
 Here’s the list of my Terraform projects (continuously updated):
 
-- **[Terraform Learning Journey](https://github.com/Abdulraheem183/terraform-learning-journey)**  
-  Daily learning logs, hands-on labs, and Terraform concepts explained with examples.  
+- **[Terraform Learning Journey](https://github.com/abdulraheem381/terraform-learning-journey)**  
+  Daily learning blogs, hands-on practices, and Terraform concepts explained with examples.  
 
-- **[Terraform IAM Project](https://github.com/Abdulraheem183/terraform-iam-project)**  
+- **[Terraform IAM Project](https://github.com/abdulraheem381/terraform-iam-user-management)**  
   Automated IAM User & Role Management with YAML, role-based policies, and clean modular Terraform setup.  
 
-- **[Terraform Static Website Hosting](https://github.com/Abdulraheem183/terraform-static-website)**  
-  Fully automated static website hosting on AWS with S3, CloudFront, and Route53.
+- **[Terraform Static Website Hosting](https://github.com/abdulraheem381/terraform-aws-s3-static-website)**  
+  Fully automated static website hosting on AWS with S3.
 
 ---
 
@@ -38,4 +38,4 @@ Stay tuned — more projects coming soon! 🚀
 ## 🌐 Connect with Me
 - 📝 Blogs: [abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)  
 - 🐦 X (Twitter): [@Abdulraheem183](https://x.com/Abdulraheem183)  
-- 💻 GitHub: [Abdulraheem183](https://github.com/Abdulraheem183)  
+- 💻 GitHub: [Abdulraheem183](https://github.com/abdulraheem381)  
